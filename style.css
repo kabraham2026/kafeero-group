@@ -14,11 +14,13 @@
 .flex-item{
     background-color: aqua;
     color: black;
-    margin: 10px;
+    margin: 20px;
     padding: 10px;
     border-radius: 10px;
     width: 250px;
     height:300px;
+    width: 200px;
+    height: 200px;
 }
 
 body{
@@ -26,6 +28,7 @@ body{
     color: red;
 }
 img{
+
     width: 200px;
     height: 150px;
 }
